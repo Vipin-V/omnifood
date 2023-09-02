@@ -5,17 +5,29 @@
 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
 
 - FONT WEIGHTS:
+Default: 400
 
 - LINE HEIGHTS:
 Default: 1
 
-- SPACING SYSTEM (px)
-2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
-
 
 --- 02 COLORS
 
-Primary color: #e67e22 
+- Primary color: #e67e22 
+
+- Tints:
+- Shades:
+- Acents:
+- Grays: #555
+
+--- 03 SHADOWS
+
+--- 04 BORDER_RADIUS
+
+--- 05 WHITE_SPACE
+
+- SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
 
 */
 
