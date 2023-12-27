@@ -17,7 +17,6 @@ Having created the website from scratch, I learned how to create and implement f
 - Fully responsive thanks to media queries ✨
 - Utilized grid, flexbox and absolute positioning
 
-# Hero
+# Preview website here
 
-<a href="https://saber-mohamed.netlify.app" target="_blank">
-<img src="./screenShoot.png" style="max-width:100%;"></a>
+<a href="https://omnifood.dev" target="_blank">Omnifood</a>
